@@ -41,13 +41,13 @@ https://waliwali.icu/API/img/acg-phone.php
 1. 返回电脑端宽图
 
 ```html
-<img src="https://waliwali.icu/API/img/acgurl.php?return=img" 
+<img src="https://waliwali.icu/API/img/acgurl.php?return=img"><img>
 ```
 
 2. 返回手机端长图
 
    ```html
-   <img src="https://waliwali.icu/API/img/acg-phone.php?return=img" 
+   <img src="https://waliwali.icu/API/img/acg-phone.php?return=img"></img>
    ```
 
    
